@@ -7,3 +7,13 @@
 #
 layout: home
 ---
+
+# A Cleaner Lincoln Square
+
+Introduction to the project. Maybe a picture of the map. 
+
+Support button. 
+
+Contact information / link. 
+
+Lincoln Squared image
