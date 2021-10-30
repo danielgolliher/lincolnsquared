@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## An organization to keep New York City's Lincoln Square clean
+## An organization to keep NYC's Lincoln Square neighborhood clean
 
 Lincoln Squared began in early 2021 when Daniel (see below) got tired of seeing trash along his section of West End Avenue, so he just started picking it up himself. It's amazing what one man can do! Throughout the year it became clear that the residents of the area needed a push to help their neighborhood; the trash problem got visibly worse, and no organization stepped up to combat it or put neighbors in touch with each other. 
 
