@@ -4,7 +4,12 @@ title: Posts
 permalink: /posts/
 ---
 
-### [Trash Alley](/trash-alley) // _October 29, 2021_
-Summary
+Coming soon...
 
-### [How to Adopt a Trash Can](/how-to-adopt-a-trash-can) // _October 29, 2021_
+### [Trash Alley](/trash-alley) // _November 4, 2021_
+
+### [How to Adopt a Trash Can](/how-to-adopt-a-trash-can) // _November 4, 2021_
+
+### [Where is Lincoln Square?](/where-is-lincoln-square) // _November 4, 2021_
+
+### [How to pick up trash yourself](/how-to-pick-up-trash-yourself) // _November 4, 2021_

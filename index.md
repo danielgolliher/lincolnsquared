@@ -8,12 +8,25 @@
 layout: home
 ---
 
-# A Cleaner Lincoln Square
+<img src="/lincolnsquared-header.png" alt="lincoln squared">
 
-Introduction to the project. Maybe a picture of the map. 
+---
 
-Support button. 
+There's a whole neighborhood beyond Lincoln Center, and that neighborhood could use some extra attention.
 
-Contact information / link. 
+Whether it's trash collection or simply networking neighbors, there's a lot to be done. 
 
-Lincoln Squared image
+That's what Lincoln Squared is for.
+
+[Coming Soon]_>> Read the first post on Trash Alley_
+
+## Support
+
+You can help clean up and unite Lincoln Square with Venmo, a card, crypto, and more!
+
+<a href="/support" target="_blank"> <img src="/assets/support-button.png" alt="Support Lincoln Squared"> </a>
+
+## Contact
+
+For any questions or comments, email Daniel at [daniel@lincolnsquared.nyc](mailto:daniel@lincolnsquared.nyc).
+

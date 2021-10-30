@@ -4,13 +4,13 @@ title: Support
 permalink: /support/
 ---
 
-You can support Lincoln Squared any way you'd like.
+You can support Lincoln Squared any way you'd like. 
 
 ## **Venmo** | Tip in the app
 
 <a href="https://venmo.com/u/maximumnewyork" target="_blank"> <img src="/venmo-button.png" alt="Support me with Venmo"> </a>
 
-## **Crypto** | Send me some coins
+## **Crypto** | Send some coins
 
 <div>
   <a class="donate-with-crypto"
@@ -27,6 +27,6 @@ You can support Lincoln Squared any way you'd like.
 
 ## Anything else
 
-Email me to arrange any alternate methods of support: 
+Email me to arrange any alternate methods of support, or if you'd be interested in getting involved with Lincoln Squared in the future: 
 
-**[daniel@maximumnewyork.com](mailto:daniel@maximumnewyork.com)**
+**[daniel@lincolnsquared.nyc](mailto:daniel@lincolnsquared.nyc)**
