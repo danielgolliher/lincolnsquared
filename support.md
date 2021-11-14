@@ -4,11 +4,13 @@ title: Support
 permalink: /support/
 ---
 
-You can support Lincoln Squared any way you'd like. 
+You can support Lincoln Squared any way you'd like. I'll use the money for trash bags and other cleanup materials, website support, my time, and some equipment like [this gimbal](https://www.amazon.com/dp/B099ZXD27F/) so I can make nice videos about the area on my phone. 
 
-## **Venmo** | Tip in the app
+## **Venmo** | Tip in the app  
 
-<a href="https://venmo.com/u/maximumnewyork" target="_blank"> <img src="/venmo-button.png" alt="Support me with Venmo"> </a>
+You should see a page for @Daniel-Golliher
+
+<a href="https://venmo.com/u/daniel-golliher" target="_blank"> <img src="/venmo-button.png" alt="Support me with Venmo"> </a>
 
 ## **Crypto** | Send some coins
 

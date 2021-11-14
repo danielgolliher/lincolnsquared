@@ -18,7 +18,9 @@ Whether it's trash collection or simply networking neighbors, there's a lot to b
 
 That's what Lincoln Squared is for.
 
-[Coming Soon]_>> Read the first post on Trash Alley_
+The first order of business: clear up trash alley (West End Avenue between 64th and 59th)!  
+
+Stay tuned for posts and updates about this project and the broader neighborhood. 
 
 ## Support
 
