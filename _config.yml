@@ -4,7 +4,7 @@ author:
   email: daniel@lincolnsquared.com
 description: > # this means to ignore newlines until "show_excerpts:"
   Defeat trash alley!
-title_image: https://lincolnsquared.nyc/lincolnsquared-header.png
+title_image: https://lincolnsquared.nyc/assets/images/twitter_card.png
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
