@@ -20,7 +20,9 @@ That's what Lincoln Squared is for.
 
 The first order of business: clear up trash alley (West End Avenue between 64th and 59th)!  
 
-Stay tuned for posts and updates about this project and the broader neighborhood. 
+Stay tuned for posts and updates about this project and the broader neighborhood.  
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">- 40 minutes <br>- 44 gallon trash bag<br>- 4 clean blocks on West End Ave, just in time for the school children tomorrow morning across the street ☀️ <a href="https://t.co/WOHzgspXnQ">pic.twitter.com/WOHzgspXnQ</a></p>&mdash; Daniel Golliher 🧭 (@danielgolliher) <a href="https://twitter.com/danielgolliher/status/1460016056391585797?ref_src=twsrc%5Etfw">November 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
 
 ## Support
 
