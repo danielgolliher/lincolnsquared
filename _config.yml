@@ -4,8 +4,10 @@ author:
   email: daniel@lincolnsquared.com
 description: > # this means to ignore newlines until "show_excerpts:"
   Defeat trash alley!
+title_image: https://lincolnsquared.nyc/lincolnsquared-header.png
 
 show_excerpts: true # set to true to show excerpts on the homepage
+
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
