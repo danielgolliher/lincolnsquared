@@ -7,4 +7,4 @@ permalink: /trash-alley/
 - Map of area
 - Summary of issues / problems
 - Potential solutions
-- My goals
+- Goals

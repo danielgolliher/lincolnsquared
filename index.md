@@ -12,25 +12,28 @@ layout: home
 
 ---
 
-There's a whole neighborhood beyond Lincoln Center, and that neighborhood could use some extra attention.
+Hello, my name is Daniel. I live in Lincoln Square, and I pick up the trash on the blocks around my building. 
 
-Whether it's trash collection or simply networking neighbors, there's a lot to be done. 
+Specifically, along Trash Alley—West End Avenue between 64th and 59th.
 
-That's what Lincoln Squared is for.
+A few times each week I clear the trash from the sidewalk and a Citi Bike station, and I recently adopted a trashcan through the Department of Sanitation. I wrote about how to do that [here](https://ilovetheupperwestside.com/adopt-your-own-litter-basket-child/). 
 
-The first order of business: clear up trash alley (West End Avenue between 64th and 59th)!  
+<img src="https://ilovetheupperwestside.com/material/media/2022/02/adopt-a-trashcan-NYC.jpg" alt="my trashcan and I">
 
-Stay tuned for posts and updates about this project and the broader neighborhood.  
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">- 40 minutes <br>- 44 gallon trash bag<br>- 4 clean blocks on West End Ave, just in time for the school children tomorrow morning across the street ☀️ <a href="https://t.co/WOHzgspXnQ">pic.twitter.com/WOHzgspXnQ</a></p>&mdash; Daniel Golliher 🧭 (@danielgolliher) <a href="https://twitter.com/danielgolliher/status/1460016056391585797?ref_src=twsrc%5Etfw">November 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
 
 ## Support
 
-You can help clean up and unite Lincoln Square with Venmo, a card, crypto, and more!
+The Department of Sanitation gives me free litter basket liners, but if you want to help me buy gloves and other items there's always Venmo.
 
-<a href="/support" target="_blank"> <img src="/assets/support-button.png" alt="Support Lincoln Squared"> </a>
+<a href="https://venmo.com/u/daniel-golliher" target="_blank"> <img src="/venmo-button.png" alt="Support me with Venmo"> </a>
 
 ## Contact
 
-For any questions or comments, email Daniel at [daniel@lincolnsquared.nyc](mailto:daniel@lincolnsquared.nyc).
+Want to join me in cleaning up Trash Alley, or learn how to get started on your own block?
+
+DM me on Twitter: [@danielgolliher](https://twitter.com/danielgolliher)
+
+DM me on Instagram: [@danielgolliher](https://instagram.com/danielgolliher)
 
