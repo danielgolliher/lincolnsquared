@@ -32,7 +32,7 @@ I wrote about how to do that <a href="https://ilovetheupperwestside.com/adopt-yo
 
 # Support
 
-The Department of Sanitation gives me free litter basket liners, but if you want to help me buy gloves and other items there's always Venmo.
+The Department of Sanitation gives me free litter basket liners, but if you want to help me buy gloves and other items there's always Venmo (@Daniel-Golliher).
 
 <a href="https://venmo.com/u/daniel-golliher" target="_blank"> <img src="/venmo-button.png" alt="Support me with Venmo"> </a>
 
