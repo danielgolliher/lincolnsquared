@@ -22,11 +22,11 @@ I don't get paid to do it. I'm just a guy who loves his city and enjoys producin
 
 <blockquote><p lang="en" dir="ltr">- 40 minutes <br>- 44 gallon trash bag<br>- 4 clean blocks on West End Ave, just in time for the school children tomorrow morning across the street ☀️ <a href="https://t.co/WOHzgspXnQ">pic.twitter.com/WOHzgspXnQ</a></p>&mdash; Daniel Golliher 🧭 (@danielgolliher) <a href="https://twitter.com/danielgolliher/status/1460016056391585797?ref_src=twsrc%5Etfw">November 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
 
-I also adopted a trashcan in Trash Alley through the Department of Sanitation. When it gets to be about three-quarters full, I pull out the trash bag, tie it, and replace it. No more overflows on my watch, and for a remarkably negligible time commitment 💪 😤
+I also adopted a trashcan in Trash Alley through the Department of Sanitation. When it gets to be about three-quarters full, I pull out the trash bag, tie it, and replace it. No more overflows on my watch, and for a <a href="https://twitter.com/danielgolliher/status/1490811183850573827?s=20&t=grki6xRPus7PSKOIzXDD0Q" target="_blank">remarkably negligible time commitment.</a> 💪 😤
 
 Thousands of people live along Trash Alley, and about 10 of us could end litter basket overflows. Join me?
 
-I wrote about how to do that [here](https://ilovetheupperwestside.com/adopt-your-own-litter-basket-child/). 
+I wrote about how to do that <a href="https://ilovetheupperwestside.com/adopt-your-own-litter-basket-child/" target="_blank">here.</a>
 
 <img src="https://ilovetheupperwestside.com/material/media/2022/02/adopt-a-trashcan-NYC.jpg" alt="my trashcan and I">
 
