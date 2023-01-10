@@ -12,6 +12,8 @@ layout: home
 
 ---
 
+_NOTE: This page is no longer maintained. I have since moved to Brooklyn._
+
 # About
 
 Hello, my name is Daniel. I live in Lincoln Square in NYC, and I pick up trash on the blocks and Citi Bike station around my building. 
